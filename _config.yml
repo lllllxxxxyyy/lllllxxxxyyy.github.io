@@ -6,9 +6,9 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
+name: liuxinyue
+title: Cloud Computing Report
+email: 2663182394@qq.com
 website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
@@ -48,69 +48,42 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  it is about Cloud Computing Report
+  
 
 content:
-  - title: Projects # Title for the section
+    - title: 实验报告 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: 云平台个人博客/网站搭建实验报告
+        link: 
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          - title:  实验报告链接
+            icon: far fa-file-alt
+            url: [实验报告链接]
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          熟悉使用主流云平台并搭建个人博客或者网站，是云计算时代必备的技能之一。
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          学号：  202100130052  
+          姓名：  刘欣月  
+          班级：  21级人工智能  
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          实验题目：利用主流云平台搭建个人博客或网站  
+          实验学时：2  
+          实验日期：  2024.3.27  
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          **实验目的：**  
+          熟悉使用主流云平台并搭建个人博客或者网站。 具体包括：  
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          **参考方案：**  
+          基于主流云平台，设计、实现个人博客或者网站的搭建，撰写实验报告（附带网站链接并可以访问），并在网站上呈现此次实验报告。  
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+          **硬件环境：**  
+          联网的计算机一台  
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  
 
 # Footer
 footer_show_references: true
